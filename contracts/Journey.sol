@@ -73,7 +73,7 @@ contract Journey {
 
     //Call to get clue 2
     function getClueTwo() public pure returns (string memory) {
-        return "Your first digit is the KEY to understanding who played before you that was 25 years old";
+        return "Your first passcode digit is the KEY to understanding who played before you and their age";
     }
 
     //Call to get clue 3
